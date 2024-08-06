@@ -1,0 +1,20 @@
+{
+  "validUser": {
+    "email": "noptest@yopmail.com",
+    "password": "qwerty"
+  },
+  "invalidUser": {
+    "email": "nopdemoinvalid@yopmail.com",
+    "password": "qwerty"
+  },
+  "invalidPassword": "12345",
+  "searchItems": {
+    "availableItem": "macbook",
+    "anotherAvailableItem": "laptop",
+    "unavailableItem": "commerce",
+    "specialCharItem": "~!@#$%^&*()_234567890s1",
+    "advancedSearchItem": "shoe",
+    "category": "10",
+    "manufacturer": "3"
+  }
+}
